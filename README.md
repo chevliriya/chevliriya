@@ -31,26 +31,45 @@
 - 🌍 Motivated by using data to create **measurable business and social impact**
 
 ---
-
 ## 🛠️ Technical Skills
 
-### Programming & Analytics
-Python (pandas, NumPy, scikit-learn) • R • SQL • PySpark
+### 🐍 Programming & Analytics
+- <img src="https://skillicons.dev/icons?i=python" height="20"/> **Python** – Data analysis, machine learning, automation (pandas, NumPy, scikit-learn)
+- <img src="https://skillicons.dev/icons?i=r" height="20"/> **R** – Statistical analysis and data modeling
+- <img src="https://skillicons.dev/icons?i=postgres" height="20"/> **SQL** – Data querying, joins, transformations, analytics
+- ⚡ **PySpark** – Distributed data processing and large-scale analytics
 
-### Data Engineering & Platforms
-ETL pipelines • Data transformation • Data quality checks  
-Azure • AWS (S3, EC2) • Databricks 
+### 🏗️ Data Engineering & Platforms
+- 🔄 **ETL Pipelines** – Data extraction, transformation, validation, and loading
+- 🧹 **Data Quality & Validation** – Accuracy checks, consistency, and reliability
+- <img src="https://skillicons.dev/icons?i=azure" height="20"/> **Azure** – Cloud-based analytics and data workflows
+- <img src="https://skillicons.dev/icons?i=aws" height="20"/> **AWS (S3, EC2)** – Cloud storage and compute services
+- 🧱 **Databricks** – Scalable analytics and data engineering workflows
 
-### Machine Learning & AI
-Predictive modeling • Feature engineering • Model evaluation  
-GenAI concepts • Applied ML pipelines
 
-### Visualization & Storytelling
-Power BI (DAX, Power Query) • Tableau (foundational)  
-Excel • Matplotlib • Seaborn • Executive dashboards
+### 🤖 Machine Learning & AI
+- 📈 **Predictive Modeling** – Regression and classification models
+- 🧩 **Feature Engineering** – Data preparation for ML performance
+- 📊 **Model Evaluation** – Validation, diagnostics, and performance metrics
+- 🧠 **Generative AI Concepts** – Prompt engineering and AI-assisted analytics
+- 🔗 **Applied ML Pipelines** – End-to-end ML workflows from data to insights
+  
 
-### Tools & Workflow
-GitHub • VS Code • FastAPI • Docker (foundational) • Agile/Scrum
+### 📊 Visualization & Data Storytelling
+- 📊 **Power BI** – Interactive dashboards (DAX, Power Query)
+- 🧾**Tableau** – Foundational dashboard development
+- 📊**Excel** – Reporting, analysis, and data preparation
+- 📉 **Matplotlib & Seaborn** – Data visualization in Python
+- 🧾 **Executive Dashboards** – Translating data into business insights
+
+
+### ⚙️ Tools & Development Workflow
+- <img src="https://skillicons.dev/icons?i=github" height="20"/> **GitHub** – Version control and collaboration
+- <img src="https://skillicons.dev/icons?i=vscode" height="20"/> **VS Code** – Development environment
+- ⚡ **FastAPI** – Building lightweight APIs for data and ML services
+- <img src="https://skillicons.dev/icons?i=docker" height="20"/> **Docker** – Containerization (foundational)
+- 🔁 **Agile / Scrum** – Iterative development and teamwork
+
 
 ---
 
