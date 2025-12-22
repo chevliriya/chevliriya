@@ -1,19 +1,18 @@
-
 <h1 align="center">Hi 👋, I'm Riya Chevli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Data+Scientist;Geospatial+ML+Engineer;Turning+Data+Into+Impact&center=true&width=600&height=45" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Data+Scientist;Analytics+%26+BI+Specialist;Turning+Data+Into+Actionable+Insights&center=true&width=650&height=45" />
 </p>
 
 <p align="center">
-  🌍 MSc Data Science & Analytics | 📊 Data Analyst | 
+  📊 Data Scientist | 📈 Analytics & BI | ☁️ Cloud & AI  
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/riya-chevli/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:chevliriya1395@gmail.com">
+  <a href="mailto:riya.chevli@ucalgary.ca">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
   </a>
   <a href="https://github.com/chevliriya">
@@ -24,70 +23,65 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Master’s student in **Data Science & Analytics**
-- 🌍 Working on **geospatial ML pipelines** for forest & mangrove **carbon estimation**
-- 🛰️ Experienced with **drone & satellite imagery (DSM / DTM / CHM)**
-- 🤖 Passionate about **ML, automation, and climate impact**
-- 💡 Strong believer in *data-driven sustainability*
+- 🎓 Master’s student in **Data Science (University of Calgary)**
+- 📊 **3+ years of experience** in data analytics, BI, and applied machine learning
+- 🧠 Built **end-to-end analytics & ML pipelines** supporting data-driven decision-making
+- 🏢 Experience working with **ERP data, dashboards, automation, and reporting controls**
+- 🤖 Interested in **AI, GenAI concepts, automation, and analytics innovation**
+- 🌍 Motivated by using data to create **measurable business and social impact**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,git,github,linux,azure" /><br/>
-  <img src="https://skillicons.dev/icons?i=opencv,sklearn,postgres" />
-</p>
+### Programming & Analytics
+Python (pandas, NumPy, scikit-learn) • R • SQL • PySpark
 
-**GIS & Remote Sensing:**  
-QGIS • Rasterio • GeoPandas • GDAL • Sentinel-2 • Drone Imagery
+### Data Engineering & Platforms
+ETL pipelines • Data transformation • Data quality checks  
+Azure • AWS (S3, EC2) • Databricks 
 
-**Data & ML:**  
-Python • R • scikit-learn • OpenCV • Feature Engineering • Model Validation
+### Machine Learning & AI
+Predictive modeling • Feature engineering • Model evaluation  
+GenAI concepts • Applied ML pipelines
 
-**Visualization & BI:**  
-Power BI • Tableau • Matplotlib • Seaborn
+### Visualization & Storytelling
+Power BI (DAX, Power Query) • Tableau (foundational)  
+Excel • Matplotlib • Seaborn • Executive dashboards
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chevliriya&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevliriya&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chevliriya" />
-</p>
+### Tools & Workflow
+GitHub • VS Code • FastAPI • Docker (foundational) • Agile/Scrum
 
 ---
+
 
 ## 🌱 Featured Work
-- 🌳 Automated **tree detection & canopy segmentation** using CHM
-- 🛰️ Carbon stock estimation using **DSM–DTM alignment**
-- 📍 Spatial analysis across **Everglades, Belize & Malaysia**
-- 📈 Turning geospatial outputs into **actionable insights**
+- 📊 **Power BI dashboards** for KPI monitoring and business reporting  
+- 🔄 **Data transformation & ETL pipelines** improving accuracy and refresh reliability  
+- 🤖 **Machine learning projects** for prediction and pattern discovery  
+- 📈 Translating complex analytics into **clear, actionable insights**
 
 ---
 
-## 📌 Currently Exploring
-- Self-supervised learning for remote sensing
-- Object detection (YOLO) for vegetation analysis
-- AI-powered geospatial dashboards
+## 📌 Selected Projects
+- **Aircraft Price Prediction** – ML regression model (Adjusted R² = 0.92)
+- **Alberta Workforce & Economy Analysis** – SQL & Python dashboards
+- **Alberta Wildfire Analysis** – Long-term trend analysis & visualization
+
+➡️ Full project details available in my repositories.
 
 ---
 
 ## 🤝 Let’s Connect
-I love collaborating on:
-- 🌍 Climate & sustainability projects  
-- 📊 Data science & analytics  
-- 🛰️ GIS & remote sensing workflows  
+I’m interested in collaborating on:
+- 📊 Data science & analytics projects  
+- 🤖 AI-enabled analytics & automation  
+- 📈 Business intelligence & reporting solutions  
 
 📫 Reach me on **LinkedIn** or via **email**
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider following me!
+  ⭐ If you find my work useful, feel free to follow or connect!
 </p>
